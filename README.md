@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assirims" alt="assirims" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assirims&theme=monokai" alt="assirims" />
 
 <br />
 <br />
