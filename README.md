@@ -51,7 +51,6 @@ Experienced University Assistant Professor with a demonstrated history of workin
 
 </ul>
 </div>
-</p>
 
 <br>
 <br>
