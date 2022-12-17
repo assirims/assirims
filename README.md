@@ -11,12 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning RoR.
 - 🤝 I’m looking to collaborate on enhancing education experience and developing some RoR applications.
-- 📫 You can reach me via my LinkedIn page.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 📫 You can reach me via my LinkedIn page
 <a href="https://www.linkedin.com/in/mohammed-assiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assirims" height="30" width="40" /></a>
-</p>
+
+<hr>
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
