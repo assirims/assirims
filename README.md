@@ -11,8 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning RoR.
 - 🤝 I’m looking to collaborate on enhancing education experience and developing some RoR applications.
-- 📫 You can reach me via my LinkedIn page
-<a href="https://www.linkedin.com/in/mohammed-assiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assirims" height="30" width="40" /></a>
+- 📫 You can reach me 
+<a href="https://www.linkedin.com/in/mohammed-assiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assirims" height="30" width="40" /></a> <a href="https://assirims.github.io/assirims/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="assirims" height="30" width="40" /></a>
+
 
 <hr>
 <!--
@@ -34,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assirims&theme=dark" alt="assirims" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assirims" alt="assirims" />
 
 <br />
 <br />
