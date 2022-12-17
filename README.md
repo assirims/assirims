@@ -6,9 +6,9 @@
 
 <hr>
 
-## <picture><img src = "./assets/info.gif" width="50"></picture> **About me**
+## <picture><img src = "./assets/info.gif" width="50"></picture> >> About me
 
-<picture> <img align="right" src="./assets/aboutme.gif" width = 250px></picture>
+<picture> <img align="right" src="./assets/aboutme.gif" width = 250px /></picture>
 
 <br>
 
@@ -17,18 +17,15 @@ Experienced University Assistant Professor with a demonstrated history of workin
 <br><br>
 
 
-## <img src="./assets/skilla.gif" width ="50"><b> Skills</b>
+## <img src="./assets/skilla.gif" width ="50" /><b> >> Selected Skills</b>
 <br>
 
 <p align="center">
 
 - **Languages**:
     
-    ![Ruby](https://img.shields.io/badge/Ruby-%2300599C.svg?style=for-the-badge&logo=Ruby&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Ruby](https://img.shields.io/badge/Ruby-%23E34F26.svg?style=for-the-badge&logo=Ruby&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
     
 - **Front-End Development**:
 
@@ -36,23 +33,13 @@ Experienced University Assistant Professor with a demonstrated history of workin
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
 
 - **Extras**:
 
@@ -66,33 +53,16 @@ Experienced University Assistant Professor with a demonstrated history of workin
 <br>
 
 
-******************
+## <img src="./assets/stat.gif" width ="50" /><b> >> Github Stats</b>
 
-
-- 📫 You can reach me 
-<a href="https://www.linkedin.com/in/mohammed-assiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assirims" height="20" width="20" /></a> - <a href="https://assirims.github.io/assirims/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="assirims" height="20" width="20" /></a>
-
-
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
-</p>
--->
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=assirims&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="assirims" /> </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=assirims&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="assirims" /> 
+
+<br />
+<br />
+    
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assirims&theme=monokai" alt="assirims" />
 
 <br />
@@ -111,3 +81,30 @@ Experienced University Assistant Professor with a demonstrated history of workin
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=assirims&theme=monokai" />
 
 </p>
+
+<br />
+<br />
+
+## <img src="./assets/connect.gif" width ="50" /><b> >> Let's Connect..!</b>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/mohammed-assiri" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Mohammed Assiri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://assirims.github.io/assirims/" target="_blank">
+<img src="https://img.shields.io/badge/github:  @assirims-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+</ul>
+</div>
