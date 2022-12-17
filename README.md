@@ -1,21 +1,78 @@
-<!---
-assirims/assirims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"><b>Hi , I'm Mohammed Assiri - @assirims </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h1 align="center">Hi 👋, I’m Mohammed Assiri - @assirims</h1>
-<h3 align="center">👀 I’m interested in Software Enginnering, V&V, and RoR.</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&size=18&duration=3000&color=C1F704&background=000000&vCenter=true&multiline=true&width=500&height=200&lines=%3E%3E+start%3A;%3E%3E+Assalamu+Alaikum+(i.e.%2C+Pace+be+upon+you);%3E%3E+...;%3E%3E++I%E2%80%99m+specialized+in+Software+Engineering%2C+;%3E%3E+Verification+and+Validation+(V%26V)%2C+;%3E%3E+and+Ruby+on+Rails+(RoR).;%3E%3E;%3E%3E+jumpto+%24start" alt="Typing SVG" /></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=assirims&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="assirims" /> </p>
+<hr>
+
+## <picture><img src = "./assets/info.gif" width="50"></picture> **About me**
+
+<picture> <img align="right" src="./assets/aboutme.gif" width = 250px></picture>
+
+<br>
+
+Experienced University Assistant Professor with a demonstrated history of working in the higher education industry. interested in Software Engineering, Technology Innovation, Verification and Validation, and Software Entrepreneurship. Strong education professional with a Doctor of Philosophy in Software Engineering from McMaster University where I utilized formal methods to model, verify, and validate the interdisciplinary requirements of cardiac pacemaker systems.
+
+<br><br>
 
 
-- 🌱 I’m currently learning RoR.
-- 🤝 I’m looking to collaborate on enhancing education experience and developing some RoR applications.
+## <img src="./assets/skilla.gif" width ="50"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Languages**:
+    
+    ![Ruby](https://img.shields.io/badge/Ruby-%2300599C.svg?style=for-the-badge&logo=Ruby&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+<br>
+
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+
+
+</p>
+
+<br>
+<br>
+
+
+******************
+
+
 - 📫 You can reach me 
 <a href="https://www.linkedin.com/in/mohammed-assiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assirims" height="20" width="20" /></a> - <a href="https://assirims.github.io/assirims/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="assirims" height="20" width="20" /></a>
 
 
-<hr>
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -33,6 +90,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 -->
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=assirims&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="assirims" /> </p>
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assirims&theme=monokai" alt="assirims" />
@@ -47,5 +105,9 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=assirims&show_icons=true&locale=en&layout=compact&theme=monokai" />
 
+<br />
+<br />
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=assirims&theme=monokai" />
 
 </p>
