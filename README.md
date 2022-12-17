@@ -11,7 +11,7 @@
 
 <br>Experienced University Assistant Professor with a demonstrated history of working in the higher education industry. interested in Software Engineering, Technology Innovation, Verification and Validation, and Software Entrepreneurship. Strong education professional with a Doctor of Philosophy in Software Engineering from McMaster University where I utilized formal methods to model, verify, and validate the interdisciplinary requirements of cardiac pacemaker systems.<br><br>
 
-## <img src="./assets/connect.gif" width ="50" /><b> >> Let's Connect..!</b>
+## <img src="./assets/connect.gif" width ="50" /><b> >> Let's Connect</b>
 <div align='left'>
 <ul>
     <li><a href="https://linkedin.com/in/mohammed-assiri" target="_blank"><img src="https://img.shields.io/badge/linkedin:  Mohammed Assiri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a></li><br />
