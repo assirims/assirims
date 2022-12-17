@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning RoR.
 - 🤝 I’m looking to collaborate on enhancing education experience and developing some RoR applications.
 - 📫 You can reach me 
-<a href="https://www.linkedin.com/in/mohammed-assiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assirims" height="30" width="40" /></a> <a href="https://assirims.github.io/assirims/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="assirims" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammed-assiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assirims" height="20" width="20" /></a> - <a href="https://assirims.github.io/assirims/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="assirims" height="20" width="20" /></a>
 
 
 <hr>
@@ -40,12 +40,12 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=assirims&show_icons=true&locale=en&theme=transparent" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=assirims&show_icons=true&locale=en&theme=monokai" />
 
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=assirims&show_icons=true&locale=en&layout=compact&theme=transparent" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=assirims&show_icons=true&locale=en&layout=compact&theme=monokai" />
 
 
 </p>
