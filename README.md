@@ -7,20 +7,21 @@
 <hr>
 
 ## <picture><img src = "./assets/info.gif" width="50"></picture> >> About me
-
 <picture> <img align="right" src="./assets/aboutme.gif" width = 250px /></picture>
 
-<br>
+<br>Experienced University Assistant Professor with a demonstrated history of working in the higher education industry. interested in Software Engineering, Technology Innovation, Verification and Validation, and Software Entrepreneurship. Strong education professional with a Doctor of Philosophy in Software Engineering from McMaster University where I utilized formal methods to model, verify, and validate the interdisciplinary requirements of cardiac pacemaker systems.<br><br>
 
-Experienced University Assistant Professor with a demonstrated history of working in the higher education industry. interested in Software Engineering, Technology Innovation, Verification and Validation, and Software Entrepreneurship. Strong education professional with a Doctor of Philosophy in Software Engineering from McMaster University where I utilized formal methods to model, verify, and validate the interdisciplinary requirements of cardiac pacemaker systems.
-
-<br><br>
-
+## <img src="./assets/connect.gif" width ="50" /><b> >> Let's Connect..!</b>
+<div align='left'>
+<ul>
+    <li><a href="https://linkedin.com/in/mohammed-assiri" target="_blank"><img src="https://img.shields.io/badge/linkedin:  Mohammed Assiri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a></li><br />
+    <li><a href="https://assirims.github.io/assirims/" target="_blank"><img src="https://img.shields.io/badge/github:  @assirims-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a></li>
+</ul>
+</div>
 
 ## <img src="./assets/skilla.gif" width ="50" /><b> >> Selected Skills</b>
 <br>
 <div align='left'>
-
 <ul>
 <li>Languages:</li>
 <ul>
@@ -48,66 +49,24 @@ Experienced University Assistant Professor with a demonstrated history of workin
     <li><img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" /></li>
     <li><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></li>
 </ul>
-
 </ul>
 </div>
 
 <br>
 <br>
 
+## <img src="./assets/stat.gif" width ="50" /><b> >> Github Stats</b><br>
 
-## <img src="./assets/stat.gif" width ="50" /><b> >> Github Stats</b>
-
-<br />
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=assirims&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="assirims" /> 
-
-<br />
-<br />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=assirims&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="assirims" /> <br /><br />
     
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assirims&theme=monokai" alt="assirims" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=assirims&theme=monokai" alt="assirims" /><br /><br />
 
-<br />
-<br />
+<img src="https://github-readme-stats.vercel.app/api?username=assirims&show_icons=true&locale=en&theme=monokai" /><br /><br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=assirims&show_icons=true&locale=en&theme=monokai" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=assirims&show_icons=true&locale=en&layout=compact&theme=monokai" /><br /><br />
 
-<br />
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=assirims&show_icons=true&locale=en&layout=compact&theme=monokai" />
-
-<br />
-<br />
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=assirims&theme=monokai" />
-
-</p>
-
-<br />
-<br />
-
-## <img src="./assets/connect.gif" width ="50" /><b> >> Let's Connect..!</b>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/mohammed-assiri" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Mohammed Assiri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://assirims.github.io/assirims/" target="_blank">
-<img src="https://img.shields.io/badge/github:  @assirims-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-</ul>
+<img src="https://github-profile-trophy.vercel.app/?username=assirims&theme=monokai" />
 </div>
+
+<br /><br />
