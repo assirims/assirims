@@ -25,29 +25,22 @@
 <ul>
 <li>Languages:</li>
 <ul>
-    <li><img src="https://img.shields.io/badge/Ruby-%23E34F26.svg?style=for-the-badge&logo=Ruby&logoColor=whitef" /></li>
-    <li><img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Ruby-%23E34F26.svg?style=for-the-badge&logo=Ruby&logoColor=whitef" /><img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /></li>
 </ul>
 
 <li>Front-End Development:</li>
 <ul>
-    <li><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /></li>
+    <li><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /></li>
 </ul>
 
 <li>Softwares and Tools:</li>
 <ul>
-    <li><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></li>
+    <li><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </ul>
 
 <li>Extras:</li>
 <ul>
-    <li><img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" /><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></li>
 </ul>
 </ul>
 </div>
@@ -64,7 +57,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=assirims&show_icons=true&locale=en&theme=monokai" /><br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=assirims&show_icons=true&locale=en&layout=compact&theme=monokai" /><br /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=assirims&langs_count=10&show_icons=true&locale=en&layout=compact&theme=monokai" /><br /><br />
 
 <img src="https://github-profile-trophy.vercel.app/?username=assirims&theme=monokai" />
 </div>
