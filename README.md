@@ -15,7 +15,7 @@
 <div align='left'>
 <ul>
     <li><a href="https://linkedin.com/in/mohammed-assiri" target="_blank"><img src="https://img.shields.io/badge/linkedin:  Mohammed Assiri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a></li><br />
-    <li><a href="https://assirims.github.io/assirims/" target="_blank"><img src="https://img.shields.io/badge/github:  @assirims-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a></li>
+    <li><a href="https://github.com/assirims" target="_blank"><img src="https://img.shields.io/badge/github:  @assirims-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a></li>
 </ul>
 </div>
 
