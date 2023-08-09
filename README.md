@@ -11,7 +11,7 @@
 
 <br>
 Venture Builder & Software Engineer. 
-<br>
+<br><br>
 A seasoned education professional with MASc and PhD in software engineering from McMaster University, and has several additional degrees and certificates in innovation and business administration (among others) from different reputable institutions.
 <br><br>
 
