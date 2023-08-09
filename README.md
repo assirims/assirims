@@ -9,7 +9,11 @@
 ## <picture><img src = "./assets/info.gif" width="50"></picture> >> About me
 <!--<picture> <img align="right" src="./assets/aboutme.gif" width = 250px /></picture>-->
 
-<br>Experienced University Assistant Professor with a demonstrated history of working in the higher education industry. interested in Software Engineering, Technology Innovation, Verification and Validation, and Software Entrepreneurship. Strong education professional with a Doctor of Philosophy in Software Engineering from McMaster University where I utilized formal methods to model, verify, and validate the interdisciplinary requirements of cardiac pacemaker systems.<br><br>
+<br>
+Venture Builder & Software Engineer. 
+<br>
+A seasoned education professional with MASc and PhD in software engineering from McMaster University, and has several additional degrees and certificates in innovation and business administration (among others) from different reputable institutions.
+<br><br>
 
 ## <img src="./assets/connect.gif" width ="50" /><b> >> Let's Connect</b>
 <div align='left'>
