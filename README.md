@@ -1,12 +1,13 @@
-<h1 align="center"><b>Hi , I'm Mohammed Assiri - @assirims </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Salam , I'm Mohammed Assiri - @assirims </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<!--
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&size=18&duration=3000&color=C1F704&background=000000&vCenter=true&multiline=true&width=500&height=200&lines=%3E%3E+start%3A;%3E%3E+Assalamu+Alaikum+(i.e.%2C+Pace+be+upon+you);%3E%3E+...;%3E%3E++I%E2%80%99m+specialized+in+Software+Engineering%2C+;%3E%3E+Verification+and+Validation+(V%26V)%2C+;%3E%3E+and+Ruby+on+Rails+(RoR).;%3E%3E;%3E%3E+jumpto+%24start" alt="Typing SVG" /></a>
 </p>
-
 <hr>
 
 ## <picture><img src = "./assets/info.gif" width="50"></picture> >> About me
+-->
 <!--<picture> <img align="right" src="./assets/aboutme.gif" width = 250px /></picture>-->
 
 <br>
@@ -14,15 +15,20 @@ Venture Builder & Software Engineer.
 <br><br>
 A seasoned education professional with MASc and PhD in software engineering from McMaster University, and has several additional degrees and certificates in innovation and business administration (among others) from different reputable institutions.
 <br><br>
+<br><br>
+<br><br>
 
+<!--
 ## <img src="./assets/connect.gif" width ="50" /><b> >> Let's Connect</b>
+-->
 <div align='left'>
 <ul>
-    <li><a href="https://linkedin.com/in/mohammed-assiri" target="_blank"><img src="https://img.shields.io/badge/linkedin:  Mohammed Assiri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a></li><br />
-    <li><a href="https://github.com/assirims" target="_blank"><img src="https://img.shields.io/badge/github:  @assirims-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a></li>
+    <li><a href="https://linkedin.com/in/mohammed-assiri" target="_blank"><img src="https://img.shields.io/badge/linkedin:  Mohammed Assiri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
+    <a href="https://github.com/assirims" target="_blank"><img src="https://img.shields.io/badge/github:  @assirims-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a></li>
 </ul>
 </div>
 
+<!--
 ## <img src="./assets/skilla.gif" width ="50" /><b> >> Selected Skills</b>
 <br>
 <div align='left'>
@@ -49,17 +55,23 @@ A seasoned education professional with MASc and PhD in software engineering from
 <br>
 
 ## <img src="./assets/stat.gif" width ="50" /><b> >> Github Stats</b><br>
+-->
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=assirims&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="assirims" /> <br /><br />
     
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=assirims&theme=monokai" alt="assirims" /><br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=assirims&show_icons=true&locale=en&theme=monokai" /><br /><br />
+<img src="https://github-readme-stats.vercel.app/api?username=assirims&show_icons=true&locale=en&theme=monokai&rank_icon=github" /><br /><br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assirims&langs_count=10&show_icons=true&locale=en&layout=compact&theme=monokai" /><br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=assirims&theme=monokai" />
+<img src="https://github-profile-trophy.vercel.app/?username=assirims&theme=monokai&column=4&margin-w=15&margin-h=15" />
 </div>
 
 <br /><br />
