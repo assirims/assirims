@@ -28,11 +28,11 @@
 
 ### <img src="./assets/4.gif" width ="30" /> Currently working on
 
+- [SaudiOpenSourceCommunity/SaudiOSS](https://github.com/SaudiOpenSourceCommunity/SaudiOSS) - قائمة بالمشاريع السعودية المفتوحة المصدر
 - [assirims/simple_course_evalution](https://github.com/assirims/simple_course_evalution) - ## Lectures Evaluation Platform  A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality.
 - [assirims/nobundle](https://github.com/assirims/nobundle) - 
 - [psau-edu-sa/final-project-waad4](https://github.com/psau-edu-sa/final-project-waad4) - final-project-waad4 created by GitHub Classroom
 - [assirims/blog_app](https://github.com/assirims/blog_app) - 
-- [assirims/fvb_site](https://github.com/assirims/fvb_site) - توثيق لمنصة تقييم المحاضرات
 ### <img src="./assets/5.gif" width ="30" /> Latest projects
 
 - [assirims/simple_course_evalution](https://github.com/assirims/simple_course_evalution) - ## Lectures Evaluation Platform  A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality.
