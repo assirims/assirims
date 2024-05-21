@@ -350,7 +350,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 528kb of code in 299 edited files across 152 commits over last 13 days</small>
+                <small>estimation from 528kb of code in 299 edited files across 152 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -434,7 +434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>assirims/simple_course_evalution</span>
-                                        <span>created 2 days ago</span>
+                                        <span>created 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">## Lectures Evaluation Platform  A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality.</div>
@@ -3742,7 +3742,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 47.6k out of 204m repositories</span>
+                                    <span class="gh">ranked 47.6k out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 996 stars</div>
                             </div>
