@@ -350,7 +350,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 101kb of code in 57 edited files across 18 commits over last 8 days</small>
+                <small>estimation from 101kb of code in 57 edited files across 18 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2794,7 +2794,7 @@
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
@@ -3683,7 +3683,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 282k out of 138m users</span>
+                                    <span class="gh">ranked 283k out of 138m users</span>
                                 </div>
                                 <div class="text">Published 81 public repositories</div>
                             </div>
@@ -3757,7 +3757,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 47.3k out of 199m repositories</span>
+                                    <span class="gh">ranked 47.3k out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1012 stars</div>
                             </div>
