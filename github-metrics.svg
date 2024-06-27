@@ -350,15 +350,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 258kb of code in 255 edited files across 280 commits over last 12 days</small>
+                <small>estimation from 255kb of code in 251 edited files across 279 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.17105689551408" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="255.17105689551408" y="0" width="201.31166766970665" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="456.4827245652208" y="0" width="3.517275434779254" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.56747371925985" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="260.56747371925985" y="0" width="195.81854793955824" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="456.3860216588181" y="0" width="3.6139783411818804" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -370,8 +370,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>71.8 kB</div>
-                                <div>55.47%</div>
+                                <div>71.4 kB</div>
+                                <div>56.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -383,7 +383,7 @@
                             </div>
                             <small>
                                 <div>991 bytes</div>
-                                <div>0.76%</div>
+                                <div>0.79%</div>
                             </small>
                         </div>
                     </section>
@@ -396,8 +396,8 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>56.7 kB</div>
-                                <div>43.76%</div>
+                                <div>53.7 kB</div>
+                                <div>42.57%</div>
                             </small>
                         </div>
                     </section>
@@ -3064,7 +3064,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
@@ -3696,7 +3696,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.952087611225192 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.036960985626286 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3755,7 +3755,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 47.2k out of 200m repositories</span>
+                                    <span class="gh">ranked 47.2k out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1021 stars</div>
                             </div>
