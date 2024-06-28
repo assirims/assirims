@@ -350,16 +350,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 283kb of code in 267 edited files across 282 commits over last 13 days</small>
+                <small>estimation from 286kb of code in 270 edited files across 283 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.09832399329076" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="282.09832399329076" y="0" width="175.30289042894847" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="457.4012144222392" y="0" width="1.5251791077767232" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.92639353001596" y="0" width="1.073606469984007" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.9728990219722" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="282.9728990219722" y="0" width="171.5827251150153" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="454.5556241369875" y="0" width="3.951563126380025" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.50718726336754" y="0" width="1.4928127366324537" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -371,20 +371,20 @@
                                 HTML
                             </div>
                             <small>
-                                <div>94.3 kB</div>
-                                <div>61.33%</div>
+                                <div>96.6 kB</div>
+                                <div>61.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                JavaScript
                             </div>
                             <small>
-                                <div>510 bytes</div>
-                                <div>0.33%</div>
+                                <div>1.35 kB</div>
+                                <div>0.86%</div>
                             </small>
                         </div>
                     </section>
@@ -398,19 +398,19 @@
                             </div>
                             <small>
                                 <div>58.6 kB</div>
-                                <div>38.11%</div>
+                                <div>37.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                CSS
                             </div>
                             <small>
-                                <div>359 bytes</div>
-                                <div>0.23%</div>
+                                <div>510 bytes</div>
+                                <div>0.32%</div>
                             </small>
                         </div>
                     </section>
@@ -3083,7 +3083,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
@@ -3774,7 +3774,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 47.1k out of 209m repositories</span>
+                                    <span class="gh">ranked 47.1k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1024 stars</div>
                             </div>
