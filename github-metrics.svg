@@ -350,16 +350,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 217kb of code in 169 edited files across 60 commits over last 13 days</small>
+                <small>estimation from 207kb of code in 165 edited files across 59 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.20007452556496" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="261.20007452556496" y="0" width="194.24534880626015" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="455.4454233318251" y="0" width="3.3057411301269597" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.75116446195204" y="0" width="1.2488355380479625" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.4567124471709" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="272.4567124471709" y="0" width="182.74110535502808" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="455.197817802199" y="0" width="3.485454820984571" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.6832726231836" y="0" width="1.3167273768163934" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -371,8 +371,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>106 kB</div>
-                                <div>56.78%</div>
+                                <div>105 kB</div>
+                                <div>59.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -384,7 +384,7 @@
                             </div>
                             <small>
                                 <div>1.35 kB</div>
-                                <div>0.72%</div>
+                                <div>0.76%</div>
                             </small>
                         </div>
                     </section>
@@ -397,8 +397,8 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>79.3 kB</div>
-                                <div>42.23%</div>
+                                <div>70.7 kB</div>
+                                <div>39.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -410,7 +410,7 @@
                             </div>
                             <small>
                                 <div>510 bytes</div>
-                                <div>0.27%</div>
+                                <div>0.29%</div>
                             </small>
                         </div>
                     </section>
@@ -3165,7 +3165,7 @@
                                 </g>
                                 <g transform="translate(360, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
@@ -3798,7 +3798,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 47.2k out of 202m repositories</span>
+                                    <span class="gh">ranked 47.2k out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1024 stars</div>
                             </div>
