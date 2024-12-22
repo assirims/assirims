@@ -32,7 +32,6 @@
 - [assirims/simple_course_evalution](https://github.com/assirims/simple_course_evalution) - ## Lectures Evaluation Platform  A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality.
 - [SaudiOpenSourceCommunity/SaudiOSS](https://github.com/SaudiOpenSourceCommunity/SaudiOSS) - قائمة بالمشاريع السعودية المفتوحة المصدر
 - [assirims/nobundle](https://github.com/assirims/nobundle) - 
-- [psau-edu-sa/final-project-waad4](https://github.com/psau-edu-sa/final-project-waad4) - final-project-waad4 created by GitHub Classroom
 ### <img src="./assets/5.gif" width ="30" /> Latest projects
 
 - [assirims/simple_course_evalution](https://github.com/assirims/simple_course_evalution) - ## Lectures Evaluation Platform  A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality.
