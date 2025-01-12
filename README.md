@@ -31,7 +31,6 @@
 - [assirims/test_gems](https://github.com/assirims/test_gems) - 
 - [assirims/simple_course_evalution](https://github.com/assirims/simple_course_evalution) - ## Lectures Evaluation Platform  A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality.
 - [SaudiOpenSourceCommunity/SaudiOSS](https://github.com/SaudiOpenSourceCommunity/SaudiOSS) - قائمة بالمشاريع السعودية المفتوحة المصدر
-- [assirims/nobundle](https://github.com/assirims/nobundle) - 
 ### <img src="./assets/5.gif" width ="30" /> Latest projects
 
 - [assirims/simple_course_evalution](https://github.com/assirims/simple_course_evalution) - ## Lectures Evaluation Platform  A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality.
