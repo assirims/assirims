@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/assirims/assirims/blob/main/assets/banner.png" /></p>
+<!--<p align="center"><img src="https://github.com/assirims/assirims/blob/main/assets/banner.png" /></p>-->
 
 ### <img src="./assets/1.gif" width ="30" /><b> Newsletters and Articles</b>
 
