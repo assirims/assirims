@@ -28,16 +28,16 @@
 
 ### <img src="./assets/4.gif" width ="30" /> Currently working on
 
-- [assirims/test_gems](https://github.com/assirims/test_gems) - 
-- [assirims/simple_course_evalution](https://github.com/assirims/simple_course_evalution) - ## Lectures Evaluation Platform  A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality.
-- [SaudiOpenSourceCommunity/SaudiOSS](https://github.com/SaudiOpenSourceCommunity/SaudiOSS) - قائمة بالمشاريع السعودية المفتوحة المصدر
+- [assirims/6GNetworks](https://github.com/assirims/6GNetworks) - 
+- [assirims/cs-117806](https://github.com/assirims/cs-117806) - 
+- [assirims/cs-117811](https://github.com/assirims/cs-117811) - 
 ### <img src="./assets/5.gif" width ="30" /> Latest projects
 
+- [assirims/6GNetworks](https://github.com/assirims/6GNetworks) - 
+- [assirims/fursa](https://github.com/assirims/fursa) - 
+- [assirims/cs-117806](https://github.com/assirims/cs-117806) - 
+- [assirims/cs-117811](https://github.com/assirims/cs-117811) - 
 - [assirims/simple_course_evalution](https://github.com/assirims/simple_course_evalution) - ## Lectures Evaluation Platform  A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality.
-- [assirims/nobundle](https://github.com/assirims/nobundle) - 
-- [assirims/fvb_site](https://github.com/assirims/fvb_site) - توثيق لمنصة تقييم المحاضرات
-- [assirims/blog_app](https://github.com/assirims/blog_app) - 
-- [assirims/workshop_ror](https://github.com/assirims/workshop_ror) - 
 
 ---
 
