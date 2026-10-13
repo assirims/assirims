@@ -28,16 +28,17 @@
 
 ### <img src="./assets/4.gif" width ="30" /> Currently working on
 
+- [assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework](https://github.com/assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework) - 
+- [assirims/ee3040-labs](https://github.com/assirims/ee3040-labs) - EE 3040 Introduction to AI: self-paced Colab labs
+- [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 A modern templating language for the HTML&#43;ERB you already have.
 - [assirims/6GNetworks](https://github.com/assirims/6GNetworks) - 
-- [assirims/cs-117806](https://github.com/assirims/cs-117806) - 
-- [assirims/cs-117811](https://github.com/assirims/cs-117811) - 
 ### <img src="./assets/5.gif" width ="30" /> Latest projects
 
+- [assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework](https://github.com/assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework) - 
+- [assirims/ee3040-labs](https://github.com/assirims/ee3040-labs) - EE 3040 Introduction to AI: self-paced Colab labs
+- [assirims/llm_eng](https://github.com/assirims/llm_eng) - 
 - [assirims/6GNetworks](https://github.com/assirims/6GNetworks) - 
 - [assirims/fursa](https://github.com/assirims/fursa) - 
-- [assirims/cs-117806](https://github.com/assirims/cs-117806) - 
-- [assirims/cs-117811](https://github.com/assirims/cs-117811) - 
-- [assirims/simple_course_evalution](https://github.com/assirims/simple_course_evalution) - ## Lectures Evaluation Platform  A Ruby on Rails app where students register and submit lecture feedback to enhance educational quality.
 
 ---
 
