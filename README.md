@@ -13,7 +13,7 @@ PhD in Software Engineering · Saudi Arabia
 
 ---
 
-## Newsletters & Articles
+## <img src="./assets/icons/newsletter.svg" width="28" height="28" align="top" /> Newsletters & Articles
 
 | Newsletter | About |
 | --- | --- |
@@ -23,17 +23,17 @@ PhD in Software Engineering · Saudi Arabia
 
 ---
 
-## Recent Projects
+## <img src="./assets/icons/projects.svg" width="28" height="28" align="top" /> Recent Projects
 
-- [assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework](https://github.com/assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework)
+- [assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework](https://github.com/assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework) — IoT-CARES: calibrated, explainable IoT health monitoring for people with special needs — falls, gait, arrhythmia and dementia surveillance
 - [assirims/ee3040-labs](https://github.com/assirims/ee3040-labs) — EE 3040 Introduction to AI: self-paced Colab labs
-- [assirims/llm_eng](https://github.com/assirims/llm_eng)
-- [assirims/6GNetworks](https://github.com/assirims/6GNetworks)
-- [assirims/fursa](https://github.com/assirims/fursa)
-- [assirims/cs-117806](https://github.com/assirims/cs-117806)
+- [assirims/llm_eng](https://github.com/assirims/llm_eng) — Da&#39;em (داعم): bilingual Arabic/English IT service-desk assistant with grounded answers, gated tool use and evaluation — SDAIA Academy capstone
+- [assirims/6GNetworks](https://github.com/assirims/6GNetworks) — Intrusion detection for 6G networks on ToN-IoT: ISSOA feature selection and a MIX-LSTM model tuned with the Rabbit Optimizer
+- [assirims/fursa](https://github.com/assirims/fursa) — Fursa (فرصة): Ruby on Rails web app, deployed with Kamal
+- [assirims/cs-117806](https://github.com/assirims/cs-117806) — AOARNN-HMPSN: IoT fall detection framework using SqueezeNet features and a BiRNN tuned by the Archimedes Optimization Algorithm
 
 ---
 
-## GitHub Stats
+## <img src="./assets/icons/stats.svg" width="28" height="28" align="top" /> GitHub Stats
 
 <div align="center"><img src="https://github.com/assirims/assirims/raw/main/github-metrics.svg" alt="GitHub metrics" /></div>
