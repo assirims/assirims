@@ -13,7 +13,7 @@ PhD in Software Engineering · Saudi Arabia
 
 ---
 
-## Newsletters & Articles
+## <img src="./assets/icons/newsletter.svg" width="28" height="28" align="top" /> Newsletters & Articles
 
 | Newsletter | About |
 | --- | --- |
@@ -23,13 +23,13 @@ PhD in Software Engineering · Saudi Arabia
 
 ---
 
-## Recent Projects
+## <img src="./assets/icons/projects.svg" width="28" height="28" align="top" /> Recent Projects
 {{ range recentRepos 6 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }} — {{ . }}{{ end }}
 {{- end }}
 
 ---
 
-## GitHub Stats
+## <img src="./assets/icons/stats.svg" width="28" height="28" align="top" /> GitHub Stats
 
 <div align="center"><img src="https://github.com/assirims/assirims/raw/main/github-metrics.svg" alt="GitHub metrics" /></div>
