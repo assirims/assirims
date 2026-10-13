@@ -21,7 +21,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 1          
           plugin_stargazers: yes
           plugin_stargazers_worldmap: no
