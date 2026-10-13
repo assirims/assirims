@@ -1,46 +1,39 @@
+<div align="center">
 
+# Mohammed Assiri
 
-### <img src="./assets/1.gif" width ="30" /><b> Newsletters and Articles</b>
+**Certified AI & Innovation Leader · Founder & Operator**<br>
+PhD in Software Engineering · Saudi Arabia
 
-- [Software Entrepreneurship](https://www.linkedin.com/newsletters/%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA-7120424670171918338/)
--- نشرة ريادة الأعمال في البرمجيات
-- [Project Idea](https://www.linkedin.com/newsletters/%25D9%2581%25D9%2583%25D8%25B1%25D8%25A9-%25D9%2585%25D8%25B4%25D8%25B1%25D9%2588%25D8%25B9-7195055915396452352/)
--- فكرة مشروع، نشرة أسبوعية لمشاريع عالمية لتنفيذها محلياً
-- [Other Articles](https://www.linkedin.com/in/mohammed-assiri/recent-activity/articles/)
--- مقالات أخرى
+<a href="https://linkedin.com/in/mohammed-assiri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Assiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/assirims" target="_blank"><img src="https://img.shields.io/badge/GitHub-@assirims-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=assirims&label=Profile%20Views&color=0A66C2&style=for-the-badge&abbreviated=true" alt="Profile views" />
 
----
-
-### <img src="./assets/2.gif" width ="30" /><b> How to reach me</b>
-
-<div align='center'>
-    <a href="https://linkedin.com/in/mohammed-assiri" target="_blank"><img src="https://img.shields.io/badge/linkedin:  Mohammed Assiri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
-    <a href="https://github.com/assirims" target="_blank"><img src="https://img.shields.io/badge/github:  @assirims-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a>
 </div>
 
 ---
 
-### <img src="./assets/3.gif" width ="30" /><b> Github Stats</b><br>
+## Newsletters & Articles
 
-<div align="center"><img src="https://github.com/assirims/assirims/raw/main/github-metrics.svg" /></div>
-
----
-
-### <img src="./assets/4.gif" width ="30" /> Currently working on
-
-- [assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework](https://github.com/assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework) - 
-- [assirims/ee3040-labs](https://github.com/assirims/ee3040-labs) - EE 3040 Introduction to AI: self-paced Colab labs
-- [marcoroth/herb](https://github.com/marcoroth/herb) - 🌿 A modern templating language for the HTML&#43;ERB you already have.
-- [assirims/6GNetworks](https://github.com/assirims/6GNetworks) - 
-### <img src="./assets/5.gif" width ="30" /> Latest projects
-
-- [assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework](https://github.com/assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework) - 
-- [assirims/ee3040-labs](https://github.com/assirims/ee3040-labs) - EE 3040 Introduction to AI: self-paced Colab labs
-- [assirims/llm_eng](https://github.com/assirims/llm_eng) - 
-- [assirims/6GNetworks](https://github.com/assirims/6GNetworks) - 
-- [assirims/fursa](https://github.com/assirims/fursa) - 
+| Newsletter | About |
+| --- | --- |
+| [Software Entrepreneurship](https://www.linkedin.com/newsletters/%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA-7120424670171918338/) | نشرة ريادة الأعمال في البرمجيات |
+| [Project Idea](https://www.linkedin.com/newsletters/%25D9%2581%25D9%2583%25D8%25B1%25D8%25A9-%25D9%2585%25D8%25B4%25D8%25B1%25D9%2588%25D8%25B9-7195055915396452352/) | فكرة مشروع، نشرة أسبوعية لمشاريع عالمية لتنفيذها محلياً |
+| [Other Articles](https://www.linkedin.com/in/mohammed-assiri/recent-activity/articles/) | مقالات أخرى |
 
 ---
 
-<img src="./assets/6.gif" width ="30" align="center" />
-<div align="center"><img src="https://komarev.com/ghpvc/?username=assirims&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="assirims" /></div><br /><br />
+## Recent Projects
+
+- [assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework](https://github.com/assirims/IoT-Based-Healthcare-Monitoring-and-Surveillance-Framework)
+- [assirims/ee3040-labs](https://github.com/assirims/ee3040-labs) — EE 3040 Introduction to AI: self-paced Colab labs
+- [assirims/llm_eng](https://github.com/assirims/llm_eng)
+- [assirims/6GNetworks](https://github.com/assirims/6GNetworks)
+- [assirims/fursa](https://github.com/assirims/fursa)
+- [assirims/cs-117806](https://github.com/assirims/cs-117806)
+
+---
+
+## GitHub Stats
+
+<div align="center"><img src="https://github.com/assirims/assirims/raw/main/github-metrics.svg" alt="GitHub metrics" /></div>
