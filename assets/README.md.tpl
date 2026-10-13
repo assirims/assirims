@@ -24,9 +24,9 @@ PhD in Software Engineering · Saudi Arabia
 ---
 
 ## Recent Projects
-{{ range recentContributions 10 }}{{ if contains .Repo.Name "assirims/" }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }} — {{ . }}{{ end }}
-{{- end }}{{- end }}
+{{ range recentRepos 6 }}
+- [{{ .Name }}]({{ .URL }}){{ with .Description }} — {{ . }}{{ end }}
+{{- end }}
 
 ---
 
